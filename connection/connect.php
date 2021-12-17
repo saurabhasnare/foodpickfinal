@@ -5,8 +5,8 @@ $username = "sql6459698"; //username
 $password = "gXHpJLqVZp"; //password
 $dbname = "sql6459698";  //database
 
-//devlopment connection
-//main connection file for both admin & front end
+// devlopment connection
+// main connection file for both admin & front end
 // $servername = "localhost"; //server
 // $username = "root"; //username
 // $password = ""; //password
